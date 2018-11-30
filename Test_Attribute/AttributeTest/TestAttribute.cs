@@ -3,7 +3,7 @@
 
 #if false
 
-// 特性适用于 
+// 特性适用于 如下  结构  枚举 类 字段 属性等  借助反射来验证
 [AttributeUsage(AttributeTargets.All)]
 public class TestAttribute : Attribute
 {
